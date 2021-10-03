@@ -39,3 +39,5 @@ To run the unit tests and watch for file changes during development, run:
 ```
 npm run test.watch
 ```
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e91f231c-1f85-4d87-9d0f-aecfb9cb69e5/deploy-status)](https://app.netlify.com/sites/xito/deploys)
